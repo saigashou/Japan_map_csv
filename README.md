@@ -12,9 +12,18 @@ CSV形式を日本地図に反映
 
 実験対象バージョン：HTML5、CSS3
 
-# 所得場所 #
-Japan Map　:　https://takemaru-hirai.github.io/japan-map/
+# csv取得場所 #
+サンプル　：　http://tips.recatnap.info/wiki/JQuery%E3%81%A7CSV%E3%82%92%E9%85%8D%E5%88%97%E3%81%AB%E5%A4%89%E6%8F%9B_%28$.csv%28%29%29
+よりお借りした内容で以下の部分を抜粋しました。
 
+## 使い方注意 ##
+文字コードはUTF-8で必ず保存すること。
+※日本語が文字化けします。
+
+
+# Japan Map所得場所 #
+Japan Map　:　https://takemaru-hirai.github.io/japan-map/
+以下設定値は抜粋しています。
 
 # 設定値 #
 
@@ -70,3 +79,11 @@ short = 関東
 
 ## onSelect : function(data) , onHover : function(data) ##
 クリック時にウィンドウが開くか、マウスを乗せた時に内容が表示されるか(デモ3)を変更できます。
+
+# サンプルhtml #
+
+## id=text ##
+この中に、地図の県名に沿った文字が表示されます。
+
+## id=map ##
+この中に、日本地図を表示します。
