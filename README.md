@@ -15,16 +15,16 @@ docs内のファイルで動きます。
 実験対象バージョン：HTML5、CSS3
 
 # csv取得場所 #
-サンプル　：　http://tips.recatnap.info/wiki/JQuery%E3%81%A7CSV%E3%82%92%E9%85%8D%E5%88%97%E3%81%AB%E5%A4%89%E6%8F%9B_%28$.csv%28%29%29
+サンプル：http://tips.recatnap.info/wiki/JQuery%E3%81%A7CSV%E3%82%92%E9%85%8D%E5%88%97%E3%81%AB%E5%A4%89%E6%8F%9B_%28$.csv%28%29%29　
 よりお借りしました。
 
 ## 使い方注意 ##
-文字コードはUTF-8で必ず保存すること。  
+文字コードはUTF-8で必ず保存すること。　
 ※日本語が文字化けします。
 
 
 # Japan Map所得場所 #
-Japan Map　:　https://takemaru-hirai.github.io/japan-map/
+Japan Map:https://takemaru-hirai.github.io/japan-map/
 以下設定値は抜粋しています。
 
 # 設定値 #
