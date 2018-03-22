@@ -25,7 +25,7 @@ docs内のファイルで動きます。
 
 
 # Japan Map所得場所 #
-Japan Map:https://takemaru-hirai.github.io/japan-map/   
+Japan Map:https://takemaru-hirai.github.io/japan-map/  
 以下設定値は抜粋しています。
 
 # 設定値 #
