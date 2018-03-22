@@ -1,7 +1,9 @@
 # Japan_map_csv
 CSV形式を日本地図に反映  
-docs内のファイルで動きます。  
-サンプルページ：https://saigashou.github.io/Japan_map_csv/   
+docs内のファイルで動きます。
+ 
+サンプルページ：https://saigashou.github.io/Japan_map_csv/
+
 ※GitHub内でのサンプルではセキュリティ的に上手く動いていませんが、ローカル環境では、https://qiita.com/nissuk/items/1ede2953a8661dc59214 を参考にお試し下さい。
 
 # 日本地図にCSV情報を自動取り込み #
