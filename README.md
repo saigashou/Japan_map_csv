@@ -1,7 +1,7 @@
 # Japan_map_csv
 CSV形式を日本地図に反映  
 docs内のファイルで動きます。  
-サンプルページ：https://saigashou.github.io/Japan_map_csv/  
+サンプルページ：https://saigashou.github.io/Japan_map_csv/   
 ※GitHub内でのサンプルではセキュリティ的に上手く動いていませんが、ローカル環境では、https://qiita.com/nissuk/items/1ede2953a8661dc59214 を参考にお試し下さい。
 
 # 日本地図にCSV情報を自動取り込み #
@@ -16,7 +16,7 @@ docs内のファイルで動きます。
 実験対象バージョン：HTML5、CSS3
 
 # csv取得場所 #
-サンプル：http://tips.recatnap.info/wiki/JQuery%E3%81%A7CSV%E3%82%92%E9%85%8D%E5%88%97%E3%81%AB%E5%A4%89%E6%8F%9B_%28$.csv%28%29%29  
+サンプル：http://tips.recatnap.info/wiki/JQuery%E3%81%A7CSV%E3%82%92%E9%85%8D%E5%88%97%E3%81%AB%E5%A4%89%E6%8F%9B_%28$.csv%28%29%29   
 よりお借りしました。
 
 ## 使い方注意 ##
@@ -25,7 +25,7 @@ docs内のファイルで動きます。
 
 
 # Japan Map所得場所 #
-Japan Map:https://takemaru-hirai.github.io/japan-map/  
+Japan Map:https://takemaru-hirai.github.io/japan-map/   
 以下設定値は抜粋しています。
 
 # 設定値 #
